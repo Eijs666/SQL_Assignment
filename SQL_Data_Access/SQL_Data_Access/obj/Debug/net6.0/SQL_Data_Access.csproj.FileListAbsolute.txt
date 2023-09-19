@@ -1,0 +1,14 @@
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\bin\Debug\net6.0\SQL_Data_Access.exe
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\bin\Debug\net6.0\SQL_Data_Access.deps.json
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\bin\Debug\net6.0\SQL_Data_Access.runtimeconfig.json
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\bin\Debug\net6.0\SQL_Data_Access.dll
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\bin\Debug\net6.0\SQL_Data_Access.pdb
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.AssemblyInfoInputs.cache
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.AssemblyInfo.cs
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.dll
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\refint\SQL_Data_Access.dll
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.pdb
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\SQL_Data_Access.genruntimeconfig.cache
+C:\Users\EAhmad\Desktop\.NET\SQL\SQL_Assignment\SQL_Data_Access\SQL_Data_Access\obj\Debug\net6.0\ref\SQL_Data_Access.dll
